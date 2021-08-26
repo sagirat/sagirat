@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagirat
-- 👀 I’m interested in coding in various languages, including python, php, powershell, visual basic and etc.
+- 👀 I’m interested in coding in various languages, including python, java, php, powershell, visual basic, fortran and etc.
 - 🌱 I’m currently learning powershell
 
 <!---
